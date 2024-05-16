@@ -30,8 +30,8 @@ This project aims to classify brain MRI images into four categories: MildDemente
 - `README.md`: Documentation file.
 
 ## Acknowledgments
-- The dataset used in this project is from [Kaggle](https://kaggle.com).
 - Special thanks to Dr. Fangning Hu for supervision and guidance throughout this project.
+- The dataset used in this project is from [Kaggle](https://kaggle.com).
 
 
 ## Author
